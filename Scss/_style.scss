@@ -1,0 +1,17 @@
+// foundation
+@use "foundation/reset";
+@use "foundation/base";
+
+// layout
+@use "layout/header";
+@use "layout/main";
+@use "layout/footer";
+
+// object/component
+@use "Object/component/btn";
+
+// object/project
+@use "Object/project/about";
+@use "Object/project/works";
+@use "Object/project/news";
+@use "Object/project/contacts";
